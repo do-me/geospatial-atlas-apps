@@ -1,0 +1,1 @@
+{"props": {"data": {"id": "__row_index__", "projection": {"x": "longitude", "y": "latitude", "isGis": true}}, "initialState": {"version": "0.0.0"}}, "isStatic": true, "database": {"type": "wasm", "load": true, "files": ["dataset_0.parquet", "dataset_1.parquet", "dataset_2.parquet", "dataset_3.parquet"]}}
