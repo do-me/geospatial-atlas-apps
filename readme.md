@@ -6,7 +6,7 @@ Tool repository: https://github.com/do-me/geospatial-atlas
 
 ## Apps
 
-### [1 GlobalGeoTree with 6.3M trees](https://do-me.github.io/geospatial-atlas-apps/)
+### [1 GlobalGeoTree with 6.3M trees](https://do-me.github.io/geospatial-atlas-apps/GlobalGeoTree)
 
 GlobalGeoTree is a comprehensive global dataset for tree species classification, comprising 6.3 million geolocated tree occurrences spanning 275 families, 2,734 genera, and 21,001 species across hierarchical taxonomic levels. Each sample is paired with Sentinel-2 image time series and 27 auxiliary environmental variables.
 
